@@ -9,3 +9,5 @@
     • Managing communication between pods, whether they belong to a same project or run in separate projects.
     • Managing network communication from a pod to a service.
     • Managing network communication from an external network to a service, or from containers to external networks.
+
+3. 
